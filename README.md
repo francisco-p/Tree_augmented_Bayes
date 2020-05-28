@@ -1,4 +1,4 @@
-# Tree_augmented_Bayes
+# Tree augmented Bayes
  
   Classification is the problem of categorizing unseen examples into predefined classes based on
 a set of training examples. The learning algorithm generates a model from a complete set of
